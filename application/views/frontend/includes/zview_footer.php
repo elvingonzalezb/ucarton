@@ -63,7 +63,7 @@
                         </div><!--  /social_icon_footer -->
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-8 col-xs-12">
-                        <p>Desarrollado por: <a href="http://www.ajaxperu.com">AJAXPERU</a></p>
+                        <p>Desarrollado por: <a href="#">EG</a></p>
                        <!-- <a href="#top" class="back_top"><i class="fa fa-chevron-up"></i></a>-->
                     </div>
                     
